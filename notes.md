@@ -4,3 +4,4 @@ Day 2 - completed: what is networking, Intro to LAN (partial)
 Day 3 - completed Network Fundamentals Module ( OSI , Packets, Frames , LAN, Extending Networks)
 completed: Network Fundamentals + How the Web Works module on TryHackMe
 completed Computer Fundamentals module on TryHack me
+completed: Operating System Basics module, watched 2hrs of FreeCodeCamp Linux Commands video
