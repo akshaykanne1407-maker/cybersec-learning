@@ -5,3 +5,4 @@ Day 3 - completed Network Fundamentals Module ( OSI , Packets, Frames , LAN, Ext
 completed: Network Fundamentals + How the Web Works module on TryHackMe
 completed Computer Fundamentals module on TryHack me
 completed: Operating System Basics module, watched 2hrs of FreeCodeCamp Linux Commands video
+completed: FreeCodeCamp 50 Linux Commands video(5hrs)
