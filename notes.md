@@ -8,3 +8,4 @@ completed: Operating System Basics module, watched 2hrs of FreeCodeCamp Linux Co
 completed: FreeCodeCamp 50 Linux Commands video(5hrs)
 Completed: Software Basics (Python, JavaScript, Data Encoding, Data Representation)
 Completed: Entire TryHackMe Pre-Security path - all modules done
+Week 3 complete - built 4 offensive Python tools: port scanner, banner grabber directory enumerator, SSH brute forcer
