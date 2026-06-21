@@ -11,3 +11,4 @@ Completed: Entire TryHackMe Pre-Security path - all modules done
 Week 3 complete - built 4 offensive Python tools: port scanner, banner grabber directory enumerator, SSH brute forcer
 Week 4 started - completed 2 rooms in Jr Penetration Tester path including guided web pentest
 week 4 day 2 - completed guided pentest : infrastructure room in Jr Penetration Tester path on TryHackMe 
+week 4 day 3 completed Frameworks (OWSAP , PTES , OSSTMM) and cyber kill chain from TryHackME
