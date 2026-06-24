@@ -12,3 +12,4 @@ Week 3 complete - built 4 offensive Python tools: port scanner, banner grabber d
 Week 4 started - completed 2 rooms in Jr Penetration Tester path including guided web pentest
 week 4 day 2 - completed guided pentest : infrastructure room in Jr Penetration Tester path on TryHackMe 
 week 4 day 3 completed Frameworks (OWSAP , PTES , OSSTMM) and cyber kill chain from TryHackME
+ completed passive and active recon rooms in the networ Reconnaissance mdoule from jr penetration tester path 
